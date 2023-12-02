@@ -1,4 +1,4 @@
-# .github
+# IA Remix - Communauté Générative Lyon
 
 Meetup de la communauté créative et générative Lyonnaise !
 
